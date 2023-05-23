@@ -1,0 +1,19 @@
+.list {
+  list-style: none;
+}
+
+.parent-list {
+  background-color: #f8f9fa;
+  border: 1px solid #a2a9b1;
+  padding: 7px;
+  width: 400px;
+  font-size: 14px;
+}
+
+.list-item-number {
+  color: #222;
+}
+
+.list-item-text {
+  color: #0645ad;
+}

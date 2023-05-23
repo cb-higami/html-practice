@@ -1,0 +1,18 @@
+.header-menu-item {
+  display: inline-block;
+  padding-top: 7px;
+  width: 15%;
+}
+.header-image {
+  height: 200px;
+}
+
+.header-menu {
+  background-color: rgb(90, 125, 238);
+  height: 40px;
+  padding-left: 0;
+}
+.header-menu-link {
+  text-decoration: none;
+  color: white;
+}

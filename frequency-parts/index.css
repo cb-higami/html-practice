@@ -1,0 +1,32 @@
+.list {
+  list-style: url(./スクリーンショット\ 2023-05-23\ 22.11.28.png) inside;
+}
+
+.header {
+  position: fixed;
+  z-index: 999;
+  height: 50px;
+  background-color: lightcoral;
+  width: 100%;
+}
+
+.main {
+  padding-top: 50px;
+}
+
+.parent {
+  display: flex;
+  width: 800px;
+  height: 120px;
+  border: 1px solid lightcoral;
+  overflow-x: scroll;
+}
+
+.child {
+  height: 110px;
+  width: 100px;
+  margin-top: 5px;
+  border: 1px solid gray;
+  flex: none;
+  border-radius: 25px;
+}
